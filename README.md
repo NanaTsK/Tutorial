@@ -1,2 +1,2 @@
 ## Tutorial
-See the ws [HERE](nanatsk.github.io/Tutorial/).
+See the WS [HERE](nanatsk.github.io/Tutorial/).
